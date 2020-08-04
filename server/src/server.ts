@@ -4,14 +4,8 @@ const app = express();
 
 app.use(express.json());
 
-app.post('/users', (request, response) => {
-    console.log(request.body);
-    
-    const users = [
-        { name: 'Ayrton', agr: 25 },
-    ];
-    
-    return response.json(users);
+app.get('/', (request, response) => {    
+    return response.json({ message: 'Ola mundu' });
 });
 
 app.listen(3333);
