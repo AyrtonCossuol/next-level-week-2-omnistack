@@ -5,7 +5,7 @@
 > :rocket: Projeto feito para conectar professores e estudantes, feito na Next Level Week #2 @Rocketseat
 
 
-# :pushpin: Tabela de Conteúdo
+# Tabela de Conteúdo
 
 * [Tecnologias](#computer-tecnologias)
 * [Funcionalidades](#rocket-funcionalidades)
@@ -13,7 +13,7 @@
 * [Encontrou um bug? Ou está faltando uma feature?](#bug-problemas)
 * [Contribuindo](#tada-contribuindo)
 
-<h2 align="left"> 📥 Layout da aplicação </h2>
+<h2 align="left">Layout da aplicação </h2>
 
 ### Web Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';" align="center">
@@ -30,7 +30,7 @@
 </div>
   
 
-# :computer: Tecnologias
+# Tecnologias
 Esse projeto foi feito utilizando as seguintes tecnologias:
 
 * [Typescript](https://www.typescriptlang.org/)      
@@ -39,17 +39,17 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 * [Expo](https://expo.io/)       
 * [Express](https://expressjs.com/) 
 
-# :rocket: Funcionalidades
+# Funcionalidades
 
 * Site para cadastro de estudante e professores.
 * App para conectar estudantes e professores.
 
-# :construction_worker: Como rodar
+# Como rodar
 ```bash
 # Clone o Repositoria
 $ git clone https://github.com/AyrtonCossuol/next-level-week-2-omnistack.git
 ```
-### 📦 Rode a API
+### Rode a API
 
 ```bash
 # Vá para a pasta do servidor
@@ -61,9 +61,8 @@ $ yarn install
 # Rode a aplicação
 $ yarn start
 ```
-Acesse a API: http://localhost:3333/
 
-### 💻 Rode o Project Web
+### Rode o Project Web
 
 ```bash
 # Vá para a pasta web
@@ -75,9 +74,8 @@ $ yarn install
 # Rode a aplicação
 $ yarn start
 ```
-Acesse: http://localhost:3000/ para ver o resultado.
 
-### 📱 Run Mobile Project
+### Run Mobile Project
 Para rodar o projeto mobile você precisa de um celular com o [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instlado ou um emulador android/ios.
 
 ```bash
@@ -91,3 +89,21 @@ $ yarn install
 $ yarn start
 ```
 Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode em um emulador.
+
+
+# Problemas
+
+Fique a vontade **para criar uma nova issue** com o respectivo titulo e descrição na página de issues do [Proffy](https://github.com/AyrtonCossuol/next-level-week-2-omnistack/issues) Repositorio. Se você já encontrou a solução para o problema, **Eu ficaria muito feliz em fazer o review do seu pull request**!
+
+# Contribuindo
+
+* Primeiro, deixe uma estrela, se quiser!
+* Bifurque este repositório;
+* Crie um branch com seu recurso: ```bash git checkout -b my-feature ```
+* Faça commit de suas mudanças: ```bash git commit -m 'feat: My new feature'```
+* Empurre seu branch: ```bash git push origin my-feature```
+
+---
+<h4 align="center">
+    Feito com :blue_heart: por Ayrton Cossuol
+</h4>
