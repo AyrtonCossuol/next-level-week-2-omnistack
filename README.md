@@ -43,3 +43,51 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 
 * Site para cadastro de estudante e professores.
 * App para conectar estudantes e professores.
+
+# :construction_worker: Como rodar
+```bash
+# Clone o Repositoria
+$ git clone https://github.com/AyrtonCossuol/next-level-week-2-omnistack.git
+```
+### 📦 Rode a API
+
+```bash
+# Vá para a pasta do servidor
+$ cd next-level-week-2-omnistack/server
+
+# Instale as depedencias
+$ yarn install
+
+# Rode a aplicação
+$ yarn start
+```
+Acesse a API: http://localhost:3333/
+
+### 💻 Rode o Project Web
+
+```bash
+# Vá para a pasta web
+$ cd next-level-week-2-omnistack/web
+
+# Instale as depedencias
+$ yarn install
+
+# Rode a aplicação
+$ yarn start
+```
+Acesse: http://localhost:3000/ para ver o resultado.
+
+### 📱 Run Mobile Project
+Para rodar o projeto mobile você precisa de um celular com o [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) instlado ou um emulador android/ios.
+
+```bash
+# Vá para a pasta mobile
+$ cd next-level-week-2-omnistack/mobile
+
+# Instale as depedencias
+$ yarn install
+
+# Rode a aplicação
+$ yarn start
+```
+Depois leia o QRCode com o app do [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) ou rode em um emulador.
