@@ -7,11 +7,11 @@
 
 # Tabela de Conteúdo
 
-* [Tecnologias](#computer-tecnologias)
-* [Funcionalidades](#rocket-funcionalidades)
-* [Como rodar](#construction_worker-como-rodar)
-* [Encontrou um bug? Ou está faltando uma feature?](#bug-problemas)
-* [Contribuindo](#tada-contribuindo)
+* Tecnologias
+* Funcionalidades
+* Como rodar
+* Encontrou um bug? Ou está faltando uma feature?
+* Contribuindo
 
 <h2 align="left">Layout da aplicação </h2>
 
@@ -99,9 +99,9 @@ Fique a vontade **para criar uma nova issue** com o respectivo titulo e descriç
 
 * Primeiro, deixe uma estrela, se quiser!
 * Bifurque este repositório;
-* Crie um branch com seu recurso: ```bash git checkout -b my-feature ```
-* Faça commit de suas mudanças: ```bash git commit -m 'feat: My new feature'```
-* Empurre seu branch: ```bash git push origin my-feature```
+* Crie um branch com seu recurso: ```git checkout -b my-feature ```
+* Faça commit de suas mudanças: ```git commit -m 'feat: My new feature'```
+* Empurre seu branch: ```git push origin my-feature```
 
 ---
 <h4 align="center">
